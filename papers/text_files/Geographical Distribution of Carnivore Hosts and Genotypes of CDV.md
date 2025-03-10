@@ -1,5 +1,7 @@
 # Geographical Distribution of Carnivore Hosts and Genotypes of Canine Distemper Virus (CDV) Worldwide: A Scoping Review and Spatial Meta-Analysis
 
+[論文目次](../index_papers.md)
+
 ## Abstruct
 
 イヌジステンパーウイルス（CDV）の宿主分布と遺伝子型の世界的な分布パターンを分析したスコーピングレビューおよび空間メタ分析研究。1985年から2024年までの160の論文を分析し、14,667頭の食肉目動物（76種）におけるCDVの検出と遺伝子型を調査。イヌ亜目（93.75%）とネコ亜目（6.07%）での分布を明らかにし、17の主要な遺伝子型の地理的分布パターンを特定。

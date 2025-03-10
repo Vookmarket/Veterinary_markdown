@@ -1,5 +1,8 @@
 # 下痢
 
+[症状目次](../index_symptom.md)
+[カテゴリ目次](../symptom_category_index/symptom_digestive_index.md)
+
 ## 定義・基準
 
 ### 定義

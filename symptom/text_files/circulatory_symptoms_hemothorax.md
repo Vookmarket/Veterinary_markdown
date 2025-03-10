@@ -1,5 +1,8 @@
 # 血胸に関連する循環器症状
 
+[症状目次](../index_symptom.md)
+[カテゴリ目次](../symptom_category_index/symptom_cardiovascular_index.md)
+
 血胸に関連する循環器症状には、以下のものがあります。
 
 - 虚脱
