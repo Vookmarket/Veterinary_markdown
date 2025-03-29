@@ -8,3 +8,4 @@
 ## 疾患リスト
 - [過凝固性疾患](../text_files/過凝固性疾患.md)
 - [血胸](../text_files/血胸.md)
+- [高血圧](../text_files/高血圧.md)
