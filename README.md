@@ -47,6 +47,7 @@
 
 ## 更新法
 
+- 新しい情報として、AI Veterinary Assistanceに関する情報が追加されました。詳細は`new_information/proofread.md`を参照してください。
 - まずは情報源の情報(new_informationディレクトリ)を参照し、定義、概念、事実、数値、その他データ、考察(考察者)、参考文献に関する情報を列挙する。
 - 列挙された情報が関連するカテゴリをdisease, drag, examination, symptom似たいしてタグづけ(複数可)し校正したものを、new_informationディレクトリ内に更新前に抽出した情報を「proofread.md」としてまとめる(校正はしても要約は可能な限りしない)。
 - diseaseディレクトリを内のファイル構成を確認し、列挙された情報が関連するファイル名を列挙する。

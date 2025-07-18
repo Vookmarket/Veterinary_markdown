@@ -36,3 +36,4 @@
 ## 最近の更新
 - [血胸](text_files/血胸.md)
 - [過凝固性疾患](text_files/過凝固性疾患.md)
+- [AI獣医アシスタンスの情報追加](../new_information/proofread.md)
